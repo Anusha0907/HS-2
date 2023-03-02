@@ -1,1 +1,1 @@
-# Hackerrank_solutions
+# Hackerrank Solutions for Python and SQL
